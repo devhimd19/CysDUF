@@ -1,0 +1,14 @@
+[
+    {
+        "PFAM_ID": "PF04311",
+        "DUF_ID": "DUF467",
+        "DUF_Name": "Protein of unknown function (DUF459)",
+        "Name of the DUF": "(1) Flavodoxin-like [c.23]",
+        "Species": "Cow (Bos taurus), alpha2\u00a0",
+        "SCOPe Superfamily": "c.23.10(110-325)",
+        "SCOPe Family": "",
+        "Pathway": "Electron Transport Chain",
+        "Chain ID ": "Q",
+        "PDB_ID": "1vyh"
+    }
+]

@@ -1,0 +1,2 @@
+PFAM_ID,DUF_ID,DUF_Name,Name of the DUF,Species,SCOPe Superfamily,SCOPe Family,Pathway,Chain ID ,PDB_ID
+PF04311,DUF467,Protein of unknown function (DUF459),(1) Flavodoxin-like [c.23],"Cow (Bos taurus), alpha2 ",c.23.10(110-325),,Electron Transport Chain,Q,1vyh
