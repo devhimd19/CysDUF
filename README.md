@@ -3,6 +3,6 @@ Database to Deciphereing the Cysteine function post-translational modifications 
  ![DUF_WebServer](https://github.com/user-attachments/assets/adc1281a-1fb0-4642-887f-71374f589ce0)
 <figure>
   <figcaption>
-              Figure 1. Web Application flow chart of the CysDUF database
+              <h2 style="text-align: center">Figure 1. Web Application flow chart of the CysDUF database</h2>
   </figcaption>
 </figure>
